@@ -4,14 +4,13 @@ import (
 	"fmt"
 	"log"
 	"net"
-
 	"github.com/urfave/cli"
 )
 
 // Generate will return the cli application ready to be used
 func Generate() *cli.App {
 	app := cli.NewApp()
-	app.Name = "kllookup"
+	app.Name = "kslookup"
 	app.Usage = "Searches for websites' IPs and servers they are running on"
 
 
