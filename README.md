@@ -16,6 +16,6 @@ It uses the [`urfave/cli`](https://github.com/urfave/cli) package to provide a c
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/your-username/kslookup.git
+git clone https://github.com/KhaledLemes/kslookup.git
 cd kslookup
 go build -o kslookup
